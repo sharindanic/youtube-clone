@@ -1,9 +1,10 @@
 document.addEventListener("DOMContentLoaded", function () {
     const searchInput = document.getElementById("search-input");
     const darkModeToggle = document.getElementById("dark-mode-toggle");
+    const videoItems = document.querySelectorAll(".video-item");
     const categoryButtons = document.querySelectorAll(".category-btn");
     const body = document.body;
-    const videoItems = document.querySelectorAll(".video-item");
+   
     
     searchInput.addEventListener("input", function () {
         const query = searchInput.value.toLowerCase();
