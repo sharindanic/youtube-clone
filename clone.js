@@ -3,7 +3,7 @@ document.addEventListener("DOMContentLoaded", function () {
     const darkModeToggle = document.getElementById("dark-mode-toggle");
     const videoItems = document.querySelectorAll(".video-item");
     const categoryButtons = document.querySelectorAll(".category-btn");
-    const body = document.body;
+    
    
     
     searchInput.addEventListener("input", function () {
