@@ -13,4 +13,5 @@ Thank you !!!!!!!!!!!!!!!!!!!!!!!!!!
 
 ## 🛠️ Technologies Used
 - **HTML** - Structure of the webpage  
-- **CSS** - Styling & layout  
+- **CSS** - Styling & layout
+- **JavaScript** - layout  
